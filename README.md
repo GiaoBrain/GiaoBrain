@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiaoBrain from Vietnam
-- 👀  I'm interested in backend and frontend development, particularly in Node.js and PHP-based frameworks. I also have experience with Angular, Vue, and React.
+- 👀  I'm interested in frontend and backend development, particularly in Node.js and React frameworks.
 - 🌱 I’m currently learning Artificial intelligence.
 - 💞️ I'm open to collaborating on interesting projects that involve backend development, frontend design, or a combination of both.
 - 📫 You can reach me through my professional email address.
